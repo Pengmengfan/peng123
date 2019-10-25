@@ -1,0 +1,113 @@
+.wrap
+{
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    border:solid 1px;
+    border-radius: 5px;
+} 
+.login
+{
+    font-size: 20px;  
+    padding-left: 15px;
+    padding-top: 15px;
+}   
+.main1
+{
+    padding-left: 70px;
+    padding-top: 20px;
+}
+.name
+{
+    padding-left: 70px;
+}
+.email
+{
+    width:400px;
+    height:40px;
+    border-radius: 5px;
+    border: 1px black solid;
+}
+.main2
+{
+    padding-left: 70px;
+    padding-top: 20px;
+}
+.password
+{
+    padding-left: 70px;
+}
+.forget
+{
+    padding-left: 305px;
+}
+a{
+    color:green;
+    text-decoration:none;
+}
+.word
+{
+    width:400px;
+    height:40px;
+    border-radius: 5px;
+    border: 1px black solid;
+}
+.main3
+{
+    padding-left: 70px;
+    padding-top: 15px;
+}
+.main4
+{
+    position: relative;
+    padding-left: 70px;
+    padding-top: 10px;  
+}
+.button1
+{
+    color: #fff;
+    text-align: center;
+    width:400px;
+    height:30px;
+    background-color: #006741;
+    border-radius: 5px;
+    border: 1px black solid;
+}
+.button1:focus{
+    background-color: #00432a;
+    outline: none;
+    border-radius: 6px;
+}
+.more
+{
+    color: gray;
+    padding-left: 225px;
+}
+.main5
+{
+    position: relative;
+    padding-left: 70px;
+    padding-top: 105px;
+}
+.button2
+{
+    color: #fff;
+    text-align: center;
+    width:400px;
+    height:30px;
+    background-color: #006741;
+    border-radius: 5px;
+    border: 1px black solid;
+}
+.button2:focus{
+    background-color: #00432a;
+    outline: none;
+    border-radius: 6px;
+}
+.foot
+{
+    padding-left: 100px;
+}
